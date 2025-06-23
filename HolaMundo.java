@@ -3,5 +3,6 @@ public class HolaMundo{
         System.out.print("Hola Mundo ");
         System.out.print("Ingrese su nombre: ");
         String nombre = System.console().readLine();
+        System.out.println("Hola " + nombre + " biencenido");
     }
 }
