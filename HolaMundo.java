@@ -5,6 +5,7 @@ public class HolaMundo{
         String nombre = System.console().readLine();
         System.out.println("Hola " + nombre + " biencenido");
         System.out.println("Me equivoque, quise escribir bienvenido");
+        int numero = 20;
 
     }
 }
